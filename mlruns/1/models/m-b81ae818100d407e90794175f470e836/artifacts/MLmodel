@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/nashr/PycharmProjects/mlops-assignment-1/mlruns/1/models/m-b81ae818100d407e90794175f470e836/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.7
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.4.0
+model_id: m-b81ae818100d407e90794175f470e836
+model_size_bytes: 229437
+model_uuid: m-b81ae818100d407e90794175f470e836
+prompts: null
+run_id: 6afbb27f7f104c658a96443310446fc4
+utc_time_created: '2025-09-18 16:07:26.595474'
