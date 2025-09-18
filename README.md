@@ -28,7 +28,6 @@ Used the following metrics for comaprison:
 ## MLFlow LOGGING SCREENSHOTS
 <img width="1819" height="526" alt="image" src="https://github.com/user-attachments/assets/13bbbca9-91c0-492f-8771-621cde5844de" />
 <img width="1834" height="755" alt="image" src="https://github.com/user-attachments/assets/b19032c6-0ff3-45d8-a286-f15a1d425026" />
-<img width="1402" height="410" alt="image" src="https://github.com/user-attachments/assets/d36fc790-1229-4852-bb64-e4fab3021419" />
 <img width="1637" height="463" alt="image" src="https://github.com/user-attachments/assets/90fa5c8e-1881-4ecd-905d-494d9802d8ab" />
 <img width="1700" height="858" alt="image" src="https://github.com/user-attachments/assets/d126b4c6-0cda-43cd-b6ca-be2c0f030f3b" />
 
